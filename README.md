@@ -6,13 +6,6 @@
 
 Frontend Developer building interfaces with **React**, **TypeScript**, and **Next.js** — focused on clean, maintainable, and accessible code. On the side, I explore **Machine Learning**, **NLP**, and **Computer Vision** with Python.
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ooss.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narges-yaghoubi-656a28243/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nargesyaghoubi2001@gmail.com)
-
-</div>
 
 ---
 
@@ -21,8 +14,6 @@ Frontend Developer building interfaces with **React**, **TypeScript**, and **Nex
 I enjoy turning ideas into polished, user-focused web applications — and I care as much about clean code and performance as I do about the final look and feel. Alongside frontend work, I've built a background in Python-based AI projects: deep learning, computer vision, and signal processing.
 
 I'm always looking to learn something new and open to new roles & collaborations.
-
-**Languages:** 🇮🇷 Persian (Native) · 🇬🇧 English (Intermediate) · 🇩🇪 German (Beginner)
 
 ---
 
@@ -50,7 +41,6 @@ I'm always looking to learn something new and open to new roles & collaborations
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
 
-*Also: Machine Learning · Deep Learning · NLP · Computer Vision · Signal Processing*
 
 **Tools & Platforms**
 
@@ -59,22 +49,14 @@ I'm always looking to learn something new and open to new roles & collaborations
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 
----
 
-## Featured Projects
+## Contact
+- nargesyaghoubi2001@gmail.com
 
-| Project | Description | Stack |
-|---|---|---|
-| [OpenPath](https://github.com/nargesyaghoubi/OpenPath) | Opportunity-discovery platform for jobs, internships, scholarships & courses — multilingual, with auth and full CRUD | Next.js, React, TypeScript |
-| [WorldLens](https://github.com/nargesyaghoubi/WorldLens) | Explore countries around the world, built with App Router and real-time API data | Next.js, App Router, REST API |
-| [GoalFlow](https://github.com/nargesyaghoubi/GoalFlow) | Goal & habit-tracking dashboard with streaks, XP, and progress tracking | React, State Management |
-| [NovaStore](https://github.com/nargesyaghoubi/NovaStore) | Product store with cart management and data fetching | React, Redux Toolkit, React Query |
-| [Face_Mask_Detection](https://github.com/nargesyaghoubi/Face_Mask_Detection) | Real-time face-mask detection powered by deep learning | Python, Deep Learning, CV |
-| [pose_detection](https://github.com/nargesyaghoubi/pose_detection) | Human pose detection with Kalman & Butterworth filtering for smooth motion tracking | Python, MediaPipe |
-| [Pocket_Classroom](https://github.com/nargesyaghoubi/Pocket_Classroom) | Offline-first study app with flashcards, quizzes, and JSON import/export | HTML, CSS, Bootstrap, JS |
+## Links
 
-More on my [portfolio](https://portfolio-ooss.vercel.app/) and [GitHub](https://github.com/nargesyaghoubi).
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ooss.vercel.app/)
 
----
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narges-yaghoubi-656a28243/)
 
-Feel free to reach out — always happy to talk about web development or data science 🙂
+
