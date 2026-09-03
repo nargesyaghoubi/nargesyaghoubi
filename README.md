@@ -69,7 +69,7 @@ I'm a Frontend Developer working mainly with **React, Next.js, and TypeScript**,
 
 OpenPath is a modern platform for discovering, saving, and managing career and educational opportunities in one place.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/AfghanExplorer)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/nargesyaghoubi/OpenPath)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://open-path-one.vercel.app/)
 
 </td>
