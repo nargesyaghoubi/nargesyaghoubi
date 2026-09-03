@@ -1,7 +1,9 @@
 <div align="center">
 
-# Narges Yaghoubi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Narges%20Yaghoubi&fontSize=55&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20Python%20Developer&descAlignY=58&animation=fadeIn" />
 
+
+<br/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&center=true&vCenter=true&width=780&lines=Frontend+Developer+%7C+React+%2F+Next.js+%2F+TypeScript;Exploring+AI+%2F+ML+%2F+Deep+Learning+with+Python;Open+to+international+opportunities" />
 
 [![GitHub](https://img.shields.io/badge/-nargesyaghoubi-181717?style=flat-square&logo=github)](https://github.com/nargesyaghoubi)
@@ -38,6 +40,7 @@ I'm a Frontend Developer working mainly with **React, Next.js, and TypeScript**,
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-025E8C?style=flat-square)
 
 ### AI / Data
@@ -54,6 +57,58 @@ I'm a Frontend Developer working mainly with **React, Next.js, and TypeScript**,
 
 ---
 
+
+
+# 🚀 Selected GitHub Work
+
+<table>
+<tr>
+<td width="50%">
+
+### OpenPath
+
+OpenPath is a modern platform for discovering, saving, and managing career and educational opportunities in one place.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/AfghanExplorer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://open-path-one.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### NeuroSignal
+
+EEG signal processing with Python, featuring filtering, visualization, artifact correction, feature extraction, and techniques for real-time and time–frequency analysis in BCI applications.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/nargesyaghoubi/NeuroSignal)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### WorldLens
+
+WorldLens, Next.js country explorer app with App Router, dynamic routes, server & client components, and REST Countries API
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/nargesyaghoubi/WorldLens)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://world-explorer-flax.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### Pose Detection
+
+Pose Detection using MediaPipe Model with Kalman & Butterworth Filters
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/nargesyaghoubi/pose_detection)
+
+</td>
+</tr>
+</table>
+
 ## 💻 Web Development Skills
 
 - 📱 Responsive, mobile-first layouts
@@ -61,23 +116,12 @@ I'm a Frontend Developer working mainly with **React, Next.js, and TypeScript**,
 - 🔄 State & data flow management
 - 📡 API integration
 - 🧪 Unit testing with Vitest
+- ♿ Advocate for accessible and inclusive software
 - 🎨 Clean, consistent UI design
 - ⚙️ Working with ORMs and real databases (Prisma)
 - 🤝 Collaborating on shared/team codebases
 
----
 
-## 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **OpenPath** | Solo-built frontend — UI, reusable components, state & data flow, API integration, responsive layouts | Next.js, React, TypeScript, Tailwind CSS | [Repo](https://github.com/nargesyaghoubi/OpenPath) |
-| **WorldLens** | Frontend project with a full test suite | Next.js, Vitest | — |
-| **ProAdv** *(team project)* | Contributed core functionality, including a Kalman filter implementation | Python | [Repo](https://github.com/farzadasgari/proadv) |
-
-> More projects in progress — coming soon 🚧
-
----
 
 ## 📊 GitHub Analytics
 
@@ -95,5 +139,8 @@ I'm always open to conversations about:
 Feel free to reach out — whether it's about a project, an opportunity, or just to talk tech.
 
 [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/nargesyaghoubi)
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narges-yaghoubi-656a28243/)
+[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nargesyaghoubigmail.com)
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
