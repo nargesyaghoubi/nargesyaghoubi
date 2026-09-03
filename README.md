@@ -125,8 +125,13 @@ Pose Detection using MediaPipe Model with Kalman & Butterworth Filters
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=nargesyaghoubi&show_icons=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargesyaghoubi&layout=compact&theme=transparent" height="165" />
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nargesyaghoubi&theme=transparent" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nargesyaghoubi&theme=transparent" />
+
+</div>
 
 ---
 
